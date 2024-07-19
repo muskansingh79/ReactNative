@@ -1,33 +1,33 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { View, StyleSheet, Text } from 'react-native';
 import CustomButton from '../components/CustomButton';
 import CustomTextInput from '../components/CustomTextInput';
 
 const HomeScreen = ({ navigation }) => {
-  const [age, setAge] = useState('');
-
-  const handleSaveAge = () => {
-    // Handle age save functionality here
-    console.log('Age:', age);
-  };
-
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Home Page</Text>
-      <CustomTextInput
+      <CustomButton
+        title="Go to Profile"
+        kind="primary"
+        variant="contained"
+        size="large"
+        onPress={() => navigation.navigate('Profile')}
+      />
+      {/* <CustomTextInput
         label="Age"
         placeholder="Enter your age"
         value={age}
         onChangeText={setAge}
         keyboardType="numeric"
-      />
-      <CustomButton
+      /> */}
+      {/* <CustomButton
         title="Save Age"
         kind="primary"
         variant="contained"
         size="large"
         onPress={handleSaveAge}
-      />
+      /> */}
       <CustomButton
         icon="home"
         kind="secondary"
