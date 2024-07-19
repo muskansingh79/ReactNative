@@ -15,3 +15,10 @@ Assignment 1
 
 ## Assignment 4
 ![WhatsApp Image 2024-07-19 at 22 13 36_9b92d984](https://github.com/user-attachments/assets/5f722038-5ccd-4f23-85fd-122870934b73)
+
+## Assignment 5 
+
+![WhatsApp Image 2024-07-19 at 22 45 11_79edd8db](https://github.com/user-attachments/assets/72b01321-7d65-4fc3-831a-99699b4670ff)
+
+## Assignment 6
+![WhatsApp Image 2024-07-19 at 22 45 12_992fd639](https://github.com/user-attachments/assets/ed8b10af-f40b-4354-a50f-d0bcfc85c26b)
