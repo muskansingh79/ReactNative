@@ -22,3 +22,22 @@ Assignment 1
 
 ## Assignment 6
 ![WhatsApp Image 2024-07-19 at 22 45 12_992fd639](https://github.com/user-attachments/assets/ed8b10af-f40b-4354-a50f-d0bcfc85c26b)
+
+## Assignment 7
+
+![WhatsApp Image 2024-07-21 at 10 50 46_8efbc0f1](https://github.com/user-attachments/assets/38739bc4-dca8-4f38-8621-948b1506a8fa)
+![WhatsApp Image 2024-07-21 at 10 50 46_c4e17630](https://github.com/user-attachments/assets/aa784208-a9e4-48d8-b22d-acd0efed3a17)
+![WhatsApp Image 2024-07-21 at 10 50 47_ad5a575c](https://github.com/user-attachments/assets/3aac9704-cb31-4695-9ea1-6a641d8fdc6b)
+
+## Assignment 8
+
+![WhatsApp Image 2024-07-21 at 10 50 47_fef94767](https://github.com/user-attachments/assets/a69a25d0-5726-487f-89fb-fe661be9bb4b)
+
+## Assignment 9
+![WhatsApp Image 2024-07-21 at 11 23 31_4df8a2cd](https://github.com/user-attachments/assets/74124e14-677c-4d02-86d5-2a70316dfe3d)
+![WhatsApp Image 2024-07-21 at 11 23 32_5defc54b](https://github.com/user-attachments/assets/4355864f-b3f3-4d6e-8cdd-65ea3955d9f9)
+
+## Assignment 10
+![WhatsApp Image 2024-07-21 at 11 28 05_3c16bb25](https://github.com/user-attachments/assets/cd01b2cd-1438-438a-9939-07c2956df363)
+![WhatsApp Image 2024-07-21 at 11 28 06_80cfd62f](https://github.com/user-attachments/assets/df1c30fb-b669-4990-8ec7-0bbe58b79d1d)
+
