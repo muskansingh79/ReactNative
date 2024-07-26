@@ -4,7 +4,7 @@ import CustomButton from '../components/CustomButton';
 import CustomTextInput from '../components/CustomTextInput';
 
 // Import your background image
-import backgroundImage from '../../assets/background.png'; // Replace with your actual image path
+import backgroundImage from '../../assets/img2.png'; // Replace with your actual image path
 
 const HomeScreen = ({ navigation }) => {
   return (
@@ -20,9 +20,9 @@ const HomeScreen = ({ navigation }) => {
         />
         <CustomButton
           title="View Cart"
-          kind="secondary"
-          variant="outlined"
-          size="large"
+          kind="secondary" // Standardize the button kind
+          variant="contained" // Standardize the variant
+          size="large" // Standardize the size
           onPress={() => navigation.navigate('CartSummary')}
         />
         <CustomButton
@@ -32,18 +32,17 @@ const HomeScreen = ({ navigation }) => {
           size="large"
           onPress={() => navigation.navigate('Profile')}
         />
-
-        <CustomButton
+        {/* <CustomButton
           icon="home"
-          kind="secondary"
-          variant="outlined"
-          size="small"
+          kind="primary" // Standardize the button kind
+          variant="contained" // Standardize the variant
+          size="large" // Standardize the size
           iconOnly
           onPress={() => console.log('Home Icon Pressed')}
-        />
+        /> */}
         <CustomButton
           title="Go to Welcome"
-          kind="primary"
+          kind="secondary"
           variant="contained"
           size="large"
           onPress={() => navigation.navigate('Welcome')}

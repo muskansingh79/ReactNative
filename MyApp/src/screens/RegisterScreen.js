@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, TextInput, Button, ImageBackground } from 'reac
 const RegisterScreen = ({ navigation }) => {
   return (
     <ImageBackground
-      source={require('../../assets/img.png')}
+      source={require('../../assets/login.png')}
       style={styles.background}
     >
       <View style={styles.overlay}>
